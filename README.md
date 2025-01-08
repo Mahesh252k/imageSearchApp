@@ -24,7 +24,7 @@ Output images:
 =======
 
 Ouput images:
->>>>>>> c1de5b765f1101fd49347aa2cd3c2333bc2f3f59
+![Project Output](images/output%20image.png)
+![Another Output](images/image%20search%20output.png)
 
-![Project Output](images/image1.png)
 
