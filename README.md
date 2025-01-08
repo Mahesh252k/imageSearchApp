@@ -18,3 +18,8 @@ This is a simple **Image Search App** that allows users to search for images and
 - **CSS3**: Styling and responsive layout.
 - **JavaScript**: Logic for fetching and displaying images dynamically.
 - **Unsplash API**: To fetch high-quality images.
+
+
+Ouput images:
+![Project Output](images/image1.png)
+![Another Output](images/image2.png)
