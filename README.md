@@ -19,6 +19,11 @@ This is a simple **Image Search App** that allows users to search for images and
 - **JavaScript**: Logic for fetching and displaying images dynamically.
 - **Unsplash API**: To fetch high-quality images.
 
+<<<<<<< HEAD
 Output images:
+=======
+
+Ouput images:
+>>>>>>> c1de5b765f1101fd49347aa2cd3c2333bc2f3f59
 ![Project Output](images/image1.png)
 ![Another Output](images/image2.png)
